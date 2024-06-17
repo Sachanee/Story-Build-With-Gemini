@@ -6,3 +6,5 @@ Features
 - Image Upload: Users can upload images from their device.
 - Story Generation: The app analyzes the uploaded images and creates a unique story based on the visual elements.
 Interactive Interface: Users can interact with the app to refine and customize their stories.
+
+![image](https://github.com/Sachanee/Story-Build-With-Gemini/assets/120290210/9bc43553-fe87-45c8-bc04-04e71238a4b2)
