@@ -1,4 +1,4 @@
-# StoryTelling App with GEmini AI
+# StoryTelling App with Gemini AI
 Overview
 Welcome to the StoryTelling App powered by GEmini AI! This application allows users to create engaging and personalized stories from images. By leveraging the advanced capabilities of GEmini AI, users can input images, and the app will generate captivating stories based on the visual content.
 
